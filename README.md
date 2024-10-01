@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://eidanerlich.github.io/resume.html](https://eidanerlich.github.io/resume.html)
 
-- ⚡ Fun fact **I play Soccer**
+- ⚡ Fun fact **Most of my work is private because it generates $$$**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
