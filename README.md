@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://eidanerlich.github.io/resume.html](https://eidanerlich.github.io/resume.html)
 
-- ⚡ Fun fact **Most of my work is private because it generates $$$**
+- ⚡ **I value the privacy of my projects, many of which have significant commercial/academic value**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
