@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Eidan</h1>
 <h3 align="center">A Passionate Robotics and ML Researcher</h3>
 
-- 🔭 I’m currently working on [Symphonic Labs](https://www.symphoniclabs.com/)
+- ⚡ **I value the privacy of my projects, many of which have significant commercial/academic value**
 
 - 🔭 I’m currently working on [MIT-PITT-RW](https://www.mitpittrw.com/)
 
-- 👨‍💻 Some of my projects are available at [eidanerlich@github.io/resume](eidanerlich@github.io/resume)
+- 👨‍💻 Some of my projects are available at [eidanerlich@github.io/resume](eidanerlich@github.io)
 
 - 💬 Ask me about **Robotics and Computer Graphics**
 
 - 📫 How to reach me **emerlich@uwaterloo.ca**
 
 - 📄 Know about my experiences [https://eidanerlich.github.io/resume.html](https://eidanerlich.github.io/resume.html)
-
-- ⚡ **I value the privacy of my projects, many of which have significant commercial/academic value**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
