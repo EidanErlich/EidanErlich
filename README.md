@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MIT-PITT-RW](https://www.mitpittrw.com/)
 
-- 👨‍💻 Some of my projects are available at [eidanerlich@github.io/resume](eidanerlich@github.io)
+- 👨‍💻 Some of my projects are available at [https://eidanerlich.github.io/resume.html](https://eidanerlich.github.io/resume.html)
 
 - 💬 Ask me about **Robotics and Computer Graphics**
 
