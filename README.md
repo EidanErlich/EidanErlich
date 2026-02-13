@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [MIT-PITT-RW](https://www.mitpittrw.com/)
 
-- 👨‍💻 Some of my projects are available at [https://eidanerlich.github.io/resume.html](https://eidanerlich.github.io/resume.html)
+- 👨‍💻 Some of my projects are available at [https://eidanerlich.github.io/work.html](https://eidanerlich.github.io/work.html)
 
 - 💬 Ask me about **Robotics and Computer Graphics**
 
 - 📫 How to reach me **emerlich@uwaterloo.ca**
 
-- 📄 Know about my experiences [https://eidanerlich.github.io/resume.html](https://eidanerlich.github.io/resume.html)
+- 📄 Know about my experiences [https://eidanerlich.github.io/work.html](https://eidanerlich.github.io/work.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
