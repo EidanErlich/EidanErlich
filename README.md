@@ -3,7 +3,7 @@
 
 - ⚡ **I value the privacy of my projects, many of which have significant commercial/academic value**
 
-- 🔭 I’m currently working on [MIT-PITT-RW](https://www.mitpittrw.com/)
+- 🔭 I’m currently working on [DREAM]([https://www.mitpittrw.com/](https://www.dreamhq.com/))
 
 - 👨‍💻 Some of my projects are available at [https://eidanerlich.github.io/work.html](https://eidanerlich.github.io/work.html)
 
